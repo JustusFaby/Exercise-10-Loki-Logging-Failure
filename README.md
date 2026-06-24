@@ -143,7 +143,7 @@ kubectl logs deployment/alloy -n logging
 ## Demonstration Video
 
 **Demo Link:**
-[Add Demo Video Link Here]
+https://drive.google.com/file/d/1r_bFNsdVJhICBUXY9-fQ9gQn_c7QAJyX/view?usp=sharing
 
 ---
 
